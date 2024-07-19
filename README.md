@@ -26,7 +26,7 @@ This is a simple Body Mass Index (BMI) calculator API built with FastAPI. It cal
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bmi-calculator-fastapi.git
+    git clone https://github.com/LahcenEzzara/bmi-calculator-fastapi.git
     cd bmi-calculator-fastapi
     ```
 
@@ -80,13 +80,14 @@ This is a simple Body Mass Index (BMI) calculator API built with FastAPI. It cal
     }
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - FastAPI
 - Pydantic
 - Uvicorn
 
+## Copyright
+
+This project is developed by Lahcen Ezzara and is protected under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
+
+**© 2024 Lahcen Ezzara. All rights reserved.**
